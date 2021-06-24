@@ -1,4 +1,4 @@
-# Yetkili-Sat-Servisi-Veritaban-Projesi
+# Yetkili-Satis-Servisi-Veritaban-Projesi
 
 Bu Proje Veri tabanı yönetim sistemleri dersi için hazırlamış olduğum proje ödevidir.
 
